@@ -5,6 +5,7 @@
 
 > Projeto finalizado 
 <br>
+
 ## 💻 Sobre o Projeto
 
 Este projeto trata-se de um conversor de moedas totalmente funcional. O projeto consume uma <a href="https://docs.awesomeapi.com.br/api-de-moedas">API</a> da cotação das moedas atualizada a cada 30 segundos.
